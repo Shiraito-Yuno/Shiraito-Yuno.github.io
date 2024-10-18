@@ -1,4 +1,4 @@
-const alert_tonality = (num) => {
+function alert_tonality(num){
     if(num==-1){
         alert("へちよちよ！");
     }
